@@ -1,0 +1,45 @@
+
+{
+    "businessContact" :{
+      "businessName" : " ",
+      "streetAddress" : " ",
+      "city" : " ",
+      "state" : " ",
+      "zipCode" : " ",
+      "number" : " ",
+      "email" : " ",
+      "website" : " "
+    },
+
+    "billTo" :{
+      "clientName" : " ",
+      "streetAddress" : " ",
+      "city" : " ",
+      "state" : " ",
+      "zipCode" : " "
+    },
+    "shipTo" :{
+      "name" : " ",
+      "address" : " ",
+      "city" : " ",
+      "state" : " ",
+      "zipCode" : " "
+    },
+
+    "invoiceDetails" : {
+      "number" : " ",
+      "date" : " ",
+      "terms" : " ",
+      "due" : " "
+    },
+
+    "description" : {
+      "type" : true,
+      "description" : " ",
+      "qty" : " ",
+      "rate" : " ",
+      "amount" : " "
+    }
+
+}
+
